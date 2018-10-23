@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Debora Sujono"
-keywords:    "Debora, Sujono, UCI, UC, Irvine, machine learning"
+keywords:    "Debora Sujono, Debora Utari Sujono, Debora, Utari, Sujono, UCI, UC, Irvine, ICS, machine learning"
 description: "Computer Science PhD student at UC Irvine"
 source_link: "https://github.com/deborausujono/deborausujono.github.io"
 favicon:     "img/favicon.ico"
@@ -36,4 +36,7 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+plugins:
+  - jekyll-seo-tag
 
