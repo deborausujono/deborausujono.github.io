@@ -1,4 +1,4 @@
-.about {
+.about, .yoga {
 	display: flex;
   	flex-direction: row;
   	align-items: center;
@@ -13,7 +13,11 @@
 	width: 210px;
 }
 
-.about p {
+.yoga iframe {
+	margin-right: 40px;
+}
+
+.about, .yoga p {
 	padding: 0;
 }
 
@@ -51,6 +55,11 @@ p {
 	color: #9A9A9A;
 }
 
+.yoga h5 {
+	font-weight: 600;
+	color: #2e2e2e;
+}
+
 /* Navigation bar */
 nav {
 	background-color: #f8f8f8;
@@ -82,12 +91,16 @@ nav ul li.active a {
 
 /* Tablets */
 @media only screen and (max-width:767px) {
-    .about {
+    .about, .yoga {
         flex-wrap: wrap;
         justify-content: center;
     }
 
     .about img { margin-right: 0; }
+    .yoga iframe {
+    	margin-right: 0;
+    	margin-bottom: 10px;
+    }
 }
 
 /* Large phones, small tablets */
