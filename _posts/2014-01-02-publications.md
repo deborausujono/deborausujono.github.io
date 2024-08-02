@@ -7,7 +7,7 @@ color: black
 ### PUBLICATIONS
 [Variational Inference for Soil Biogeochemical Models.](https://openreview.net/pdf?id=3_HrwqrPd4U) Debora Sujono, Hua Wally Xie, Steven Allison, Erik Sudderth. In AI for Science Workshop, International Conference on Machine Learning (ICML), 2022.
 
-[A framework for variational inference and data assimilation of soil biogeochemical models using state space approximations and normalizing flows (*Preprint*).](https://d197for5662m48.cloudfront.net/documents/publicationstatus/120804/preprint_pdf/af3f05c4648410148ad54e093dc9798f.pdf) Hua Xie, Debora Sujono, Tom Ryder, Erik Sudderth, Steven Allison. Submitted to Journal of Advances in Modeling Earth Systems (JAMES), 2022.
+[A framework for variational inference and data assimilation of soil biogeochemical models using state space approximations and normalizing flows.](https://d197for5662m48.cloudfront.net/documents/publicationstatus/120804/preprint_pdf/af3f05c4648410148ad54e093dc9798f.pdf) *Preprint*. Hua Wally Xie, Debora Sujono, Tom Ryder, Erik Sudderth, Steven Allison. Submitted to Journal of Advances in Modeling Earth Systems (JAMES), 2022.
 
 [Marginalized Stochastic Natural Gradients for Black-Box Variational Inference.](http://proceedings.mlr.press/v139/ji21b/ji21b.pdf) Geng Ji, Debora Sujono, Erik Sudderth. In International Conference on Machine Learning (ICML), 2021.
 
